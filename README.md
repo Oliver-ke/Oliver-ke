@@ -2,7 +2,7 @@
 ![wallpaper](https://res.cloudinary.com/oliver-k/image/upload/v1594480984/saves/Colorful_Business_Data_General_Linkedin_Banner.png)
 ----------------------------------
 
-### ✨✨ I'm Kelechi Oliver, and I make things that compile to zero's and one's ✨✨
+### ✨✨ I'm Kelechi Oliver, I love making things that compile to zero's and one's ✨✨
 
 I'm very passionate about my work and I'm looking to learning and collaborating with teams to building great solutions that solve real problems
 Currently, these are the frameworks, libraries, technologies, tools, platforms I currently use
