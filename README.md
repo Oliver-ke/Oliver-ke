@@ -28,8 +28,8 @@ Over the years I've also had experience
 - GIT workflow
 - Wireframing
 
-During my spare time I make tutorial videos, Just starting out as of when I wrote this.
-[My Youtube channel](https://www.youtube.com/channel/UCm4cXpfP080k-0PEag5M2PA?view_as=subscriber)
+During my spare time I make tutorial videos, Currently I'm just starting out but hope to keep doing it
+My youtube [Channel Link](https://www.youtube.com/channel/UCm4cXpfP080k-0PEag5M2PA?view_as=subscriber)
 
 You can chat me up on
 - [LinkedIn](https://www.linkedin.com/in/oliver-ke)
