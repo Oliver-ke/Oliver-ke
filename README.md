@@ -13,7 +13,6 @@ Currently, these are the frameworks, libraries, technologies, tools, platforms I
 - React Native
 - Node/express
 - PostgreSQL
-- Google Cloud
 - Html
 - CSS
 - SASS
