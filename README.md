@@ -2,10 +2,10 @@
 ![wallpaper](https://res.cloudinary.com/oliver-k/image/upload/v1594480984/saves/Colorful_Business_Data_General_Linkedin_Banner.png)
 ----------------------------------
 
-### ✨✨ I'm Kelechi Oliver, I love making things that compile to zero's and one's ✨✨
+### ✨✨ I'm Kelechi Oliver A., I love making things compile to zero's and one's ✨✨
 
-I'm very passionate about my work and I'm looking to learning and collaborating with teams to building great solutions that solve real problems
-Currently, these are the frameworks, libraries, technologies, tools, platforms I currently use
+I'm very passionate about my work and I'm looking to learning and collaborating with teams to building great solutions that solve real problems.
+Currently, these are the frameworks, libraries, technologies, and tools I work with,
 - Javascript
 - Typescript
 - GraphQL
@@ -18,7 +18,7 @@ Currently, these are the frameworks, libraries, technologies, tools, platforms I
 - SASS
 - Cloud computing (GCP)
 
-Over the years I've also had experience
+Over the years I've also gained experience
 - Using CI/CD
 - Agile Methodology
 - Task tracking tools (Asana, Trello, Pivotal Tracker)
@@ -27,7 +27,7 @@ Over the years I've also had experience
 - GIT workflow
 - Wireframing
 
-During my spare time I make tutorial videos, Currently I'm just starting out but hope to keep doing it
+During my spare time I make tutorial videos, just starting out but hope to keep doing it. 
 My youtube [Channel Link](https://www.youtube.com/channel/UCm4cXpfP080k-0PEag5M2PA?view_as=subscriber)
 
 You can chat me up on
