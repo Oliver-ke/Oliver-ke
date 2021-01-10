@@ -2,9 +2,9 @@
 ![wallpaper](https://res.cloudinary.com/oliver-k/image/upload/v1594480984/saves/Colorful_Business_Data_General_Linkedin_Banner.png)
 ----------------------------------
 
-### ✨✨ I'm Kelechi Oliver A., I love making things compile to zero's and one's ✨✨
+### ✨✨ I'm Kelechi Oliver A, and I love making things that compile to one's and zero's ✨✨
 
-I'm very passionate about my work and I'm looking to learning and collaborating with teams to building great solutions that solve real problems.
+I'm very passionate about my work and I'm looking to learning and collaborating with teams to building great solutions that solves real problems.
 Currently, these are the frameworks, libraries, technologies, and tools I work with,
 - Javascript
 - Typescript
@@ -30,7 +30,7 @@ Over the years I've also gained experience
 During my spare time I make tutorial videos, just starting out but hope to keep doing it. 
 My youtube [Channel Link](https://www.youtube.com/channel/UCm4cXpfP080k-0PEag5M2PA?view_as=subscriber)
 
-You can chat me up on
+You can always reach me on
 - [LinkedIn](https://www.linkedin.com/in/oliver-ke)
 - [Twitter](https://twitter.com/KelechiOliver3)
 - [facebook](https://web.facebook.com/kelechi.azorji)
