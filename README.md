@@ -1,6 +1,6 @@
 ### Hello, Welcome! 👋 🤓
 
-### ✨✨ I'm Oliver, Full-Stack Web, Cloud DevOps, IoT (hobby)  ✨✨
+### ✨✨ I'm Oliver, Full Stack Web, Cloud DevOps  ✨✨
 
 I'm really excited about my work and I'm looking to learn and collaborate with teams to build awesome projects.
 
