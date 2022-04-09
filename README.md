@@ -1,6 +1,6 @@
 ### Hello, Welcome! 👋 🤓
 
-### ✨✨ I'm Kelechi Oliver .A, Full Stack Web, Cloud DevOps  ✨✨
+### ✨✨ I do, Full Stack Web, Cloud DevOps  ✨✨
 
 I'm really passionate about my work and I'm looking to learn and collaborate with teams to build awesome projects.
 
