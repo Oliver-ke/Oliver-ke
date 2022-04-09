@@ -66,6 +66,6 @@ You can always reach me on
 
 - [facebook](https://web.facebook.com/kelechi.azorji)
 
-#### I love teamwork and I believe our sum is greater than our part
+#### I love teamwork and I believe our sum is greater than our parts
 
 ##### Cheers 🥂, thinks for showing up 
