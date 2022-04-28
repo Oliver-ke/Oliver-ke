@@ -38,9 +38,9 @@ Over the years, I've gained experience.
 
 - GIT workflow
 
-And I'm gradually transitioning into Cloud DevOps
 
-- Working with AWS
+And cloud technologies
+- AWS
 
 - Kubernetes 
 
