@@ -1,8 +1,8 @@
 ### Hello, Welcome! 👋 🤓
 
-### ✨✨ I do Fullstack  ✨✨
+### ✨✨ Fullstack / Cloud DevOps  ✨✨
 
-I'm really passionate about my work and I'm looking to learn and collaborate with teams to build awesome projects.
+My interest lies in building scalable web applications as a full-stack engineer and managing deployment and monitoring in the cloud as a cloud devops engineer. Mostly working for startups to push out features as quickly as possible in an ever-changing Agile environment.
 
 Currently, these are the frameworks, libraries, technologies, and tools I work with,
 
